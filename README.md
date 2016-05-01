@@ -1,2 +1,2 @@
 # Java-finalProject
-Final project for CSE 110 (Principles of Java Programming at Arizona State) 
+I have taken pride in the assignments I have completed throughout the semester in my Intro to Java course at Arizona State University. I do not necessarily believe in posting these assignments on Github because they do not reflect my interests, but for the purpose of posting my first ever Repository I will make an exception here.  Of course I am always open to suggestion on how to improve on any of my posted programs. This can be suggestions on making the code more concise, errors in the logic, improving on the program’s functionality, etc…
